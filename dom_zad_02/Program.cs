@@ -8,10 +8,10 @@ int Two = int.Parse(Console.ReadLine());
 Console.Write("Введите третье число: ");
 int Tree = int.Parse(Console.ReadLine());
 int Max = int.Parse(Console.ReadLine());
-if(One => Two)
+if(One >= Two)
 {
     One = Max;
-    if(Max => Tree)
+    if(Max >= Tree)
     {
       Console.Write(Max + "- максимальное число ");  
     }
@@ -23,7 +23,7 @@ if(One => Two)
 else
 {
     Two = Max;
-    if(Max => Tree)
+    if(Max >= Tree)
     {
       Console.Write(Max + "- максимальное число ");  
     }
