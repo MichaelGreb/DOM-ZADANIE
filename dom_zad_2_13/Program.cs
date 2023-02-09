@@ -2,7 +2,23 @@
 // сообщает, что третьей цифры нет
 
 Console.Clear();
-Console.Write("Введите трехзначное число: ))");
+Console.Write("Введите число: ");
 int number = int.Parse(Console.ReadLine());
-Console.Write(number%10);
+int count = number;
+int result = 0;
+if (number<100)
+{
+Console.Write("Третьей цифры нет");
+return;
+}
+else
+{
+    while(number>=1000)
+    {
+        number = number / 10;
+    }
+    result = number % 10;
+}
+Console.WriteLine(result);
+
 
