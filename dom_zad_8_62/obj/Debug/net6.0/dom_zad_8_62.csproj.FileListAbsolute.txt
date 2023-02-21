@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\c# dom_zad\dom_zad_8_62\bin\Debug\net6.0\dom_zad_8_62.exe
+C:\Users\1\Desktop\c# dom_zad\dom_zad_8_62\bin\Debug\net6.0\dom_zad_8_62.deps.json
+C:\Users\1\Desktop\c# dom_zad\dom_zad_8_62\bin\Debug\net6.0\dom_zad_8_62.runtimeconfig.json
+C:\Users\1\Desktop\c# dom_zad\dom_zad_8_62\bin\Debug\net6.0\dom_zad_8_62.dll
+C:\Users\1\Desktop\c# dom_zad\dom_zad_8_62\bin\Debug\net6.0\dom_zad_8_62.pdb
+C:\Users\1\Desktop\c# dom_zad\dom_zad_8_62\obj\Debug\net6.0\dom_zad_8_62.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\c# dom_zad\dom_zad_8_62\obj\Debug\net6.0\dom_zad_8_62.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\c# dom_zad\dom_zad_8_62\obj\Debug\net6.0\dom_zad_8_62.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\c# dom_zad\dom_zad_8_62\obj\Debug\net6.0\dom_zad_8_62.AssemblyInfo.cs
+C:\Users\1\Desktop\c# dom_zad\dom_zad_8_62\obj\Debug\net6.0\dom_zad_8_62.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\c# dom_zad\dom_zad_8_62\obj\Debug\net6.0\dom_zad_8_62.dll
+C:\Users\1\Desktop\c# dom_zad\dom_zad_8_62\obj\Debug\net6.0\refint\dom_zad_8_62.dll
+C:\Users\1\Desktop\c# dom_zad\dom_zad_8_62\obj\Debug\net6.0\dom_zad_8_62.pdb
+C:\Users\1\Desktop\c# dom_zad\dom_zad_8_62\obj\Debug\net6.0\dom_zad_8_62.genruntimeconfig.cache
+C:\Users\1\Desktop\c# dom_zad\dom_zad_8_62\obj\Debug\net6.0\ref\dom_zad_8_62.dll
